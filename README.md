@@ -1,0 +1,1 @@
+Based on the Red Hat Demo Platform workshop: https://github.com/OpenShiftDemos/openshift-gitops-workshop
